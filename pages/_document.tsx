@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from "next/document";
 export default function Document() {
   const meta = {
     title: "Bilguun's Portfolio",
-    description: "Clone and deploy your own Next.js portfolio in minutes.",
+    description: "Developer portfolio of Bilguun",
     image: "https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png",
   };
 
